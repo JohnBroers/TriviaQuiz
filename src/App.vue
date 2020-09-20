@@ -54,7 +54,7 @@ export default {
 
 		const fetchQuestions = async () => {
 			try {
-				const response = await fetch(`https://opentdb.com/api.php?amount=10&type=multiple&difficulty=${state.difficulty}`);
+				const response = await fetch(`https://opentdb.com/api.php?amount=10&type=multiple&difficulty=${state.difficulty}&category=12`);
 				const data = await response.json();
 				const questionObj = data.results.map(q => {
 					return {
