@@ -1,4 +1,11 @@
-# quiz
+![](./preview/mockup.png)
+
+# Trivia Quiz
+Trivia Quiz app made with Vue 3 + Tailwind.
+
+## Preview
+![](./preview/playthrough.gif)
+
 
 ## Project setup
 ```
