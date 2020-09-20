@@ -3,9 +3,11 @@
 # Trivia Quiz
 Trivia Quiz app made with Vue 3 + Tailwind.
 
+## Demo
+Play the live demo on: [johns-trivia-quiz.netlify.app](https://johns-trivia-quiz.netlify.app/)
+
 ## Preview
 ![](./preview/playthrough.gif)
-
 
 ## Project setup
 ```
